@@ -48,8 +48,8 @@
 | [`Tic-Tac-Toe-Game`](https://github.com/Harshit0119/Tic-Tac-Toe-Game) | Interactive JavaScript game for two players. |
 | [`Stone-Paper-Scissor`](https://github.com/Harshit0119/Stone-Paper-Scissor) | Browser-based game with JS logic and UI. |
 | [`netflix-clone`](https://github.com/Harshit0119/netflix-clone) | Responsive Netflix-style landing page with hero section and movie rows. |
-| [`medical-products-site`](https://github.com/Harshit0119/MedicalProducts.com) – Discover high-quality hospital furniture designed for comfort, efficiency, and durability. |
-| [`resume-site`](https://github.com/Harshit0119/resume-site) – A sleek resume website with responsive design and hosted via GitHub Pages. |
+| [`medical-products-site`](https://github.com/Harshit0119/MedicalProducts.com) | Discover high-quality hospital furniture designed for comfort, efficiency, and durability. |
+| [`resume-site`](https://github.com/Harshit0119/resume-site) | A sleek resume website with responsive design and hosted via GitHub Pages. |
 
 ---
 
