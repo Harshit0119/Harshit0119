@@ -59,7 +59,4 @@
 <p align="center">
   🚀 Always experimenting, learning, and building.<br>
   Let’s turn ideas into impact!
-</p>--
-**Harshit0119/Harshit0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+</p>
